@@ -7,7 +7,8 @@ I'm Carlos Júnior, a beginner front-end programmer, a student of Systems Analys
 - how to reach me [@_juninho.sil](https://www.instagram.com/_juninho.sil)
 <br/>
 
-### CONECTE-SE COMIGO
+### CONNECT WITH ME
+
 
 <p>
     <a href="https://www.instagram.com/_juninho.sil"/>
