@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO GUYS 😎 💻
 
 I'm Carlos Júnior, a beginner front-end programmer, a student of Systems Analysis and Development at UNI-BH college, and a Dev Club member.
 <br/>
